@@ -1,0 +1,8 @@
+# Asset Allocation Challenges
+
+This folder contains projects and practical challenges focused on portfolio optimization, asset allocation strategies, and ETF analysis.
+
+### Key Features:
+* **Portfolio Optimization:** Implementation of quantitative frameworks for strategic and tactical asset allocation.
+* **ETF Analysis:** Evaluation and selection of Exchange-Traded Funds for structural portfolio design.
+* **Performance Metrics:** Backtesting strategies using risk-adjusted return metrics. 
