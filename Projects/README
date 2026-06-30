@@ -1,0 +1,8 @@
+# Personal Projects
+
+This folder centralizes my personal projects, with a strong focus on advanced predictive analytics, machine learning pipelines, and quantitative development.
+
+### Key Features:
+* **Machine Learning Pipelines:** End-to-end development including advanced data engineering, feature scaling, and handling financial datasets.
+* **Model Evaluation:** Implementation of robust classification and regression models alongside rigorous performance metrics (ROC-AUC, feature importance, confusion matrices).
+* **Quantitative Development:** Custom scripts and exploratory frameworks designed to solve diverse data-driven and financial problems.
